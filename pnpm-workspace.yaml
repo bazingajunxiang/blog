@@ -1,0 +1,4 @@
+packages:
+  - "packages/blog-view"
+  - "packages/blog-api"
+  - "packages/blog-admin"
